@@ -1,4 +1,5 @@
-Hello, I am Ninju4821, aka rickyd_bridge.
+Hello, I am Ninju4821, aka rickydbridge.
+
 I am a hobbyist programmer currently in university for Aerospace & Mechanical Engineering.
 
 <!---
