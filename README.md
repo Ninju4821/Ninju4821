@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ninju4821, a hobbyist programmer in university.
-- 🌱 I’m currently learning HTML and JS for web development and Java.
+Hello, I am Ninju4821, aka rickyd_bridge.
+I am a hobbyist programmer currently in university for Aerospace & Mechanical Engineering.
 
 <!---
 Ninju4821/Ninju4821 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
